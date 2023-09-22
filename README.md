@@ -10,6 +10,7 @@
 
 ### Test and DockerHub push
 ![Alt text](test_local.jpg)
+![image](https://github.com/NahomiMachuca/proyecto-/assets/89893604/3f4093de-e162-4b58-aa18-630d4ef8bbb4)
 
 ![Alt text](build_image.jpg)
 
